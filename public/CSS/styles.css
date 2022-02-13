@@ -27,14 +27,3 @@ p{
 #class{
     width:100%;
 }
-#btn{
-    width: 100px;
-    height: 35px;
-    background-color: rgb(243, 233, 233);
-    font-size: 18pt;
-}
-.formFields div{
-    width: 40%;
-    float: left;
-    margin: 20px;
-}
